@@ -1,8 +1,8 @@
-## Mental Health App
+<h1 align="center"> Mental Health App </h1>
 
-This is a site to connect users who may need mental health to psychologists, 20/09/2021.
-
+<p align="center">This is a site to connect users who may need mental health to psychologists, 20/09/2021.
 By Khajira Christopher, Louisiana Alela, Dancun Wawire, Martin Kecho
+</p>
 
 ## Description
 
@@ -26,9 +26,11 @@ Below is a brief summary of the features that the website provides:
 
 4. Copy the path of the index.html file to your browser and you will be able to access the application.
 
-## Technologies Used
+<h2 align="center"> Technologies Used </h2>
+<p align="center">
+<img src="https://img.icons8.com/?size=512&id=Q5FXgRZybr2A&format=png" style="width:43px; height:43px;"><img src="https://img.icons8.com/?size=512&id=21278&format=png" style="width:50px; heigth:50px;"><img src="https://img.icons8.com/?size=512&id=108784&format=png" style="width:50px; heigth:50px;">
+</p>
 
-This project uses HTML, CSS and JavaScript.
 
 ## Support and contact details
 
